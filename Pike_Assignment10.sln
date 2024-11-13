@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Pike_Assignment10", "Pike_Assignment10\Pike_Assignment10.pyproj", "{F320D492-3B58-40C6-BC38-31816A011684}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F320D492-3B58-40C6-BC38-31816A011684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F320D492-3B58-40C6-BC38-31816A011684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {563E9F11-4516-43ED-83B4-AC7198629EF5}
+	EndGlobalSection
+EndGlobal
