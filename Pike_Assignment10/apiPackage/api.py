@@ -1,5 +1,16 @@
 # api
 
+# Name: Connor MacFarland, Greyson Barber
+# email: macfarct@mail.uc.edu, barbergn@mail.uc.edu
+# Assignment Number: Assignment 010
+# Due Date:  11/14/2024
+# Course #/Section:   IS 4010- 001
+# Semester/Year:   Fall 2024
+# Brief Description of the assignment:  execute an API call using a Url in groups 
+# Brief Description of what this module does: Main package takes the API key and fetches the data to build a statement. 
+# Anything else that's relevant: 
+# Citations W3Schools, Stackoverflow
+
 import requests
 import json
 import csv
